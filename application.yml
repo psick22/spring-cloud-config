@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret_key: myToken_app
+  secret_key: myToken_app_changed
 
 gateway:
   ip: 192.168.0.7
