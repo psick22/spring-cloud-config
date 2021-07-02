@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret_key: myTokenChanged
+  secret_key: "{cipher}AQBaPMSL7/nwv4ng/RDSP5wEtQtdFNLf9F3Uc4wKcw4tqwhXzlOLzWk/AjeAcNQutKxrMLSRpTzTIJ1wljOsLe9JOpEZSk/vIq8VKfE9O5PAWMtD2eAo7FlIkfHzqv80y0cgdGpjG3e73y6W1vSrEfV3JxGk05U5iQWzDRBbLtPjUPNq6gT+UbiIbBwwXHak0U+cglejGwgLWvLXTSAd4BwQKSVBQFy8FaT2p/trG6YnbUsGIVqv4uxinZlmBbPgRuVs4uaH+LNUdDpVlnsTrK2lym1hVyKrIx3kRQ6BqWfDpRJJts3vk9eJ3jvhn5+EFW0U9NejPd5qofuEcA68LRnyyqW46E7maFPpWX0QwepkaPpfHlXxsv2ztIZzEtCqDe8="
 
 gateway:
   ip: 192.168.0.7
