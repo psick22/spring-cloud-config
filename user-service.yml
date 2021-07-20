@@ -10,7 +10,7 @@ spring:
 #   secret_key: "{cipher}AQCQ/G4mc/dvTUL7xFxFlTex/bA+kIOmszDkipcKoGeWLhx7GSQ79d1YBFUIff6GZ3mWgP7RI6rcYsT6oIzOYSEfAq1UzqnlY28KeBoEJLtTgH+CXQ4wctW5NfVMds2MaK1kek3ULLUBxSRiK+0Q6B0mhkGoOZV/xgsFyRn0gvf5w0GSeZ2ECvJQFznp/OSTJqtPRoX7BxNqc8safIsA7BNubqnLUCNJmpA/gbHVlBMtPRApmNDtD5KAVD/5tKBFkz9fA2Fn9NV09taV7eJl3hDMvYqIVR1G7Wb7InSDcMUrCyQsr+S3who84lGzGS7ux2YG6z6I3+YztgNKRr2oWDC+mvfFjnM3FI71spEDpWDfYON99yUwpbogctDYEcnNTIBv1eFCttCLj4zSwSLU/HoN"
 
 gateway:
-  ip: 192.168.0.7
+  ip: 192.168.0.4
 
 order_service:
   # url: http://127.0.0.1:8000/order-service/%s/orders
