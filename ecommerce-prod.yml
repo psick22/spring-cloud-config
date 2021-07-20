@@ -3,4 +3,4 @@
 #   secret_key: myToken-prod
 
 gateway:
-  ip: 192.168.0.7
+  ip: 192.168.0.4
